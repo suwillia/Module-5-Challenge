@@ -1,1 +1,3 @@
-Module 5 read me.
+Sunil Williams -Module 5 assignemnt
+This is the module 5 assignment that utilizes subject matter taught around Matplotlib to review Data. The data source is in the Data folder and has the corresponding Mouse trials for different pharmaceutical testing regimens. This week, I need to review the Professor guided videos to help with the Box plot, correlation and Regression models. The pandas data pulls from the data folder using mouse_metadata_path = "data/Mouse_metadata.csv" and study_results_path = "data/Study_results.csv" . If you are unmable to run due to file not found, please modify these lines to add "../" in front of file path Data to navigate to folder.
+Upon completion, a few short analysis were done based on the results of the charts. THe last analysis was an od to Harry Potter.
